@@ -39,27 +39,29 @@
 - **PostgreSQL**, DBeaver 활용
 
 </br> 
+</br> 
 
 ## ✔️ 1. Best Item 추천  
 
-- 진행 내용 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/best_recommendation.ipynb)  
+- 세부 내용 및 코드 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/best_recommendation.ipynb)  
 
 - 추천 별 그룹화 및 Query 추출  
 (1) Best의 대상이 되는 그룹의 정의  
 (2) 각 그룹마다 특성화된 scoring 적용
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/161695535-a76b0745-8d5c-4385-a7eb-1ddcec45e81a.png" width="700"></div>  
+<img src="https://user-images.githubusercontent.com/90162819/161704759-9868af17-e659-4303-8604-437d4deefe8a.png" width="700"></div>  
 
-
+</br> 
+</br> 
 
 ## ✔️ 2. 연관 상품 추천 
 
-- 진행 내용 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/relatedItem_recommendation.ipynb)  
+- 세부 내용 및 코드 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/relatedItem_recommendation.ipynb)  
 
 - 추천 별 그룹화 및 Query 추출  
 (1) cosine 유사도를 활용하여 연관성 고려  
-(2) 가중치 할당 (대중적인 아이템은 조회나 접근 횟수가 많아 단순 count수가 많으므로 log값 적용)
+(2) 가중치 할당 (대중적인 아이템은 조회나 접근 횟수가 많아 단순 count수가 많으므로 log값 적용)  
 (3) 아이템들의 연관성 추출 기준은 application에 맞게 선택 (사용자, 세션, 인접)
 
 <div align="center">
@@ -69,7 +71,7 @@
 
 ## ✔️ 3. 개인화 맞춤 추천 
 
-- 진행 내용 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/personalized_recommendation.ipynb)
+- 세부 내용 및 코드 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/personalized_recommendation.ipynb)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90162819/161546886-7e15bdb3-5778-49ef-ad15-ac68cd12eed5.png" width="600"></div>  
