@@ -67,14 +67,28 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90162819/161703892-db26bdc5-a732-42c4-8217-3c724d1bc26c.png" width="700"></div>  
 
-
+</br> 
+</br> 
 
 ## ✔️ 3. 개인화 맞춤 추천 
 
 - 세부 내용 및 코드 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/personalized_recommendation.ipynb)
 
+- 추천 별 그룹화 및 Query 추출  
+(1) 특정 사용자 history를 활용하여 활동 이력 로그 추출 
+(2) 사용자 별 취향이 유사한 사용자 집합 추출
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/161546886-7e15bdb3-5778-49ef-ad15-ac68cd12eed5.png" width="600"></div>  
+<img src="https://user-images.githubusercontent.com/90162819/161709396-bfc25d9c-081b-4eb0-99b6-2b8df370cf09.png" width="500"></div>  
+
+
+</br> 
+</br> 
+</br> 
+</br> 
+
+> reference  
+- 이 프로젝트는 번개장터 CTO 이동주님의 강의를 참고하였습니다.
 
 
 
