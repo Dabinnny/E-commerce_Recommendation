@@ -79,16 +79,18 @@
 (2) 사용자 별 취향이 유사한 사용자 집합 추출
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/161711489-06e6beaa-5187-4388-a2de-0d5acda84bbb.png" width="500"></div>  
+<img src="https://user-images.githubusercontent.com/90162819/161711489-06e6beaa-5187-4388-a2de-0d5acda84bbb.png" width="450"></div>  
 
 
+</br> 
+</br> 
 </br> 
 </br> 
 </br> 
 </br> 
 
 > reference  
-  - 이 프로젝트는 번개장터 CTO 이동주님의 강의를 바탕으로 하였습니다.
+  - 이 프로젝트는 번개장터 CTO 이동주님의 추천시스템 강의를 참고하였습니다.
 
 
 
