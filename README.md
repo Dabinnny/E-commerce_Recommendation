@@ -55,10 +55,15 @@
 
 ## ✔️ 2. 연관 상품 추천 
 
-- 진행 내용 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/relatedItem_recommendation.ipynb)
+- 진행 내용 : [바로가기](https://github.com/Dabinnny/E-commerce_Recommendation/blob/main/relatedItem_recommendation.ipynb)  
+
+- 추천 별 그룹화 및 Query 추출  
+(1) cosine 유사도를 활용하여 연관성 고려  
+(2) 가중치 할당 (대중적인 아이템은 조회나 접근 횟수가 많아 단순 count수가 많으므로 log값 적용)
+(3) 아이템들의 연관성 추출 기준은 application에 맞게 선택 (사용자, 세션, 인접)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/161546886-7e15bdb3-5778-49ef-ad15-ac68cd12eed5.png" width="600"></div>  
+<img src="https://user-images.githubusercontent.com/90162819/161703892-db26bdc5-a732-42c4-8217-3c724d1bc26c.png" width="700"></div>  
 
 
 
